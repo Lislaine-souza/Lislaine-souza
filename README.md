@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com implantação de sistemas, e testes de correções e melhorias.
 - 🌱 Formada em tecnologia em informática/Software
 - 📖 Estudando Automação de testes
-- 📫 contate-me no email: Lislaine.lima@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div>
