@@ -1,6 +1,6 @@
 ### Olá! Eu Sou a Lislaine souza mais conhecida como Lis 👋
 
-- 🔭 Hoje trabalho com implantação de sistemas, e testes de correções e melhorias.
+- 🔭 Hoje trabalho com implantação de sistemas, e testes funcionais de correções e melhorias.
 - 🌱 Formada em tecnologia em informática/Software
 - 📖 Estudando Automação de testes
 - 😄 Pronouns: ela/dela
